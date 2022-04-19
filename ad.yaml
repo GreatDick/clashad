@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,simba.taobao.com
   - DOMAIN-SUFFIX,tanx.com
   - DOMAIN-SUFFIX,umeng.com
-  - DOMAIN-SUFFIX.umengcloud.com
+  - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,whalecloud.com
   - DOMAIN-SUFFIX,zampdsp.com
   - DOMAIN-SUFFIX,cbjs.baidustatic.com
